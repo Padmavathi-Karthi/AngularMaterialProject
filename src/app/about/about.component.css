@@ -28,3 +28,8 @@
     color: rgb(255, 0, 200);
 }
 
+@media only screen and (max-width: 600px){
+    .sub-title{
+        font-size: 30px; 
+    }
+}

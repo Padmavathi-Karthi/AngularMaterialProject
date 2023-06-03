@@ -73,3 +73,16 @@
 .work:hover .layer {
   height: 100%;
 }
+
+/* For smaller screen */
+@media only screen and (max-width: 600px) {
+  .mat-h1{
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .p1{
+    text-align: center;
+    font-size: 15px;
+  }
+}
