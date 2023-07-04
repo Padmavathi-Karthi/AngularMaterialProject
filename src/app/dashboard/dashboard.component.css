@@ -34,7 +34,7 @@
 .layer {
   width: 100%;
   height: 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), #ff004f);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), #71f8d6);
   color: white;
   border-radius: 10px;
   position: absolute;
